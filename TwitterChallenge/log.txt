@@ -1,0 +1,118 @@
+2020-12-29 09:06:42.016 -06:00 [INF] Application Starting
+2020-12-29 09:07:02.992 -06:00 [INF] ******************************************************************************************
+2020-12-29 09:07:02.999 -06:00 [INF] *** STAT Name                      | STAT Value 
+2020-12-29 09:07:03.000 -06:00 [INF] ******************************************************************************************
+2020-12-29 09:07:03.001 -06:00 [INF] *** Total Tweets Read              | 345
+2020-12-29 09:07:03.002 -06:00 [INF] *** Average Tweets Per Second      | 18
+2020-12-29 09:07:03.003 -06:00 [INF] *** Average Tweets Per Minute      | 0
+2020-12-29 09:07:03.004 -06:00 [INF] *** Average Tweets Per Hour        | 0
+2020-12-29 09:07:03.013 -06:00 [INF] *** Top HashTag                    | HappyTaehyungDay[# Instances: 15]
+2020-12-29 09:07:03.013 -06:00 [INF] *** Top Domain                     | https://youtu.be/7geuk8GOru8[# Instances: 2]
+2020-12-29 09:07:03.014 -06:00 [INF] *** Percent of Tweets with URLs    | 16%
+2020-12-29 09:07:03.015 -06:00 [INF] *** Percent of Tweets Pics in URLs | 0%
+2020-12-29 09:07:03.015 -06:00 [INF] ******************************************************************************************
+2020-12-29 09:07:03.016 -06:00 [INF] Application Completed!!!
+2020-12-29 10:24:05.796 -06:00 [INF] Application Starting
+2020-12-29 11:57:10.702 -06:00 [INF] Application Starting
+2020-12-29 12:15:29.596 -06:00 [INF] Application Starting
+2020-12-29 13:13:41.222 -06:00 [INF] Application Starting
+2020-12-29 14:04:57.025 -06:00 [INF] Application Starting
+2020-12-29 14:07:34.863 -06:00 [INF] Application Starting
+2020-12-29 15:00:17.259 -06:00 [INF] Application Starting
+2020-12-29 16:27:03.997 -06:00 [INF] Application Starting
+2020-12-29 16:29:04.969 -06:00 [INF] Application Starting
+2020-12-29 16:32:28.714 -06:00 [INF] Application Starting
+2020-12-29 16:34:32.263 -06:00 [INF] Application Starting
+2020-12-29 16:45:42.377 -06:00 [INF] Application Starting
+2020-12-29 16:52:41.277 -06:00 [INF] Application Starting
+2020-12-30 08:37:49.465 -06:00 [INF] Application Starting
+2020-12-30 08:43:04.053 -06:00 [INF] Application Starting
+2020-12-30 08:45:03.192 -06:00 [INF] Application Starting
+2020-12-31 09:10:01.589 -06:00 [INF] Application Starting
+2020-12-31 09:10:35.890 -06:00 [INF] ******************************************************************************************
+2020-12-31 09:10:35.896 -06:00 [INF] *** STAT Name                      | STAT Value 
+2020-12-31 09:10:35.896 -06:00 [INF] ******************************************************************************************
+2020-12-31 09:10:35.896 -06:00 [INF] *** Total Tweets Read              | 40
+2020-12-31 09:10:35.897 -06:00 [INF] *** Average Tweets Per Second      | 1
+2020-12-31 09:10:35.897 -06:00 [INF] *** Average Tweets Per Minute      | 0
+2020-12-31 09:10:35.897 -06:00 [INF] *** Average Tweets Per Hour        | 0
+2020-12-31 09:10:35.898 -06:00 [INF] *** Top HashTag                    | UbycohubXMercyEke[# Instances: 2]
+2020-12-31 09:10:35.898 -06:00 [INF] *** Top Domain                     | https://buff.ly/3f9ogLF[# Instances: 1]
+2020-12-31 09:10:35.899 -06:00 [INF] *** Percent of Tweets with URLs    | 7%
+2020-12-31 09:10:35.899 -06:00 [INF] *** Percent of Tweets Pics in URLs | 0%
+2020-12-31 09:10:35.899 -06:00 [INF] ******************************************************************************************
+2020-12-31 09:10:35.899 -06:00 [INF] Application Completed!!!
+2020-12-31 09:53:48.640 -06:00 [INF] Application Starting
+2020-12-31 10:06:30.157 -06:00 [INF] Application Starting
+2020-12-31 10:25:40.386 -06:00 [INF] Application Starting
+2020-12-31 11:02:30.863 -06:00 [INF] Application Starting
+2020-12-31 11:03:39.141 -06:00 [INF] Application Starting
+2020-12-31 11:05:47.323 -06:00 [INF] Application Starting
+2020-12-31 11:12:18.416 -06:00 [INF] Application Starting
+2020-12-31 11:34:06.821 -06:00 [INF] Application Starting
+2020-12-31 11:34:59.057 -06:00 [INF] ******************************************************************************************
+2020-12-31 11:34:59.063 -06:00 [INF] *** STAT Name                      | STAT Value 
+2020-12-31 11:34:59.064 -06:00 [INF] ******************************************************************************************
+2020-12-31 11:34:59.064 -06:00 [INF] *** Total Tweets Read              | 4
+2020-12-31 11:34:59.064 -06:00 [INF] *** Average Tweets Per Second      | 0
+2020-12-31 11:34:59.064 -06:00 [INF] *** Average Tweets Per Minute      | 0
+2020-12-31 11:34:59.065 -06:00 [INF] *** Average Tweets Per Hour        | 0
+2020-12-31 11:34:59.065 -06:00 [INF] *** Top HashTag                    | 
+2020-12-31 11:34:59.066 -06:00 [INF] *** Top Domain                     | 
+2020-12-31 11:34:59.066 -06:00 [INF] *** Percent of Tweets with URLs    | 0%
+2020-12-31 11:34:59.067 -06:00 [INF] *** Percent of Tweets Pics in URLs | 0%
+2020-12-31 11:34:59.067 -06:00 [INF] ******************************************************************************************
+2020-12-31 11:34:59.067 -06:00 [INF] Application Completed!!!
+2020-12-31 11:55:37.041 -06:00 [INF] Application Starting
+2021-01-01 09:50:58.464 -06:00 [INF] Application Starting
+2021-01-01 09:57:04.890 -06:00 [INF] Application Starting
+2021-01-01 10:10:56.271 -06:00 [INF] Application Starting
+2021-01-01 10:13:38.807 -06:00 [INF] Application Starting
+2021-01-01 10:16:30.442 -06:00 [INF] Application Starting
+2021-01-01 10:17:10.495 -06:00 [INF] ******************************************************************************************
+2021-01-01 10:17:10.501 -06:00 [INF] *** STAT Name                      | STAT Value 
+2021-01-01 10:17:10.501 -06:00 [INF] ******************************************************************************************
+2021-01-01 10:17:10.501 -06:00 [INF] *** Total Tweets Read              | 207
+2021-01-01 10:17:10.502 -06:00 [INF] *** Average Tweets Per Second      | 5
+2021-01-01 10:17:10.502 -06:00 [INF] *** Average Tweets Per Minute      | 0
+2021-01-01 10:17:10.502 -06:00 [INF] *** Average Tweets Per Hour        | 0
+2021-01-01 10:17:10.503 -06:00 [INF] *** Top HashTag                    | WorldNengiDay[# Instances: 2]
+2021-01-01 10:17:10.503 -06:00 [INF] *** Top Domain                     | https://www.instagram.com/p/CJgjyaeHjjYxZlXAZdVkgkk9D3QN2VEecfoaLk0/?igshid=bswqeizcrz7z[# Instances: 1]
+2021-01-01 10:17:10.504 -06:00 [INF] *** Percent of Tweets with URLs    | 12%
+2021-01-01 10:17:10.504 -06:00 [INF] *** Percent of Tweets Pics in URLs | 0%
+2021-01-01 10:17:10.504 -06:00 [INF] ******************************************************************************************
+2021-01-01 10:17:10.504 -06:00 [INF] Application Completed!!!
+2021-01-01 10:40:22.162 -06:00 [INF] Application Starting
+2021-01-01 10:57:35.535 -06:00 [INF] Application Starting
+2021-01-01 11:06:48.129 -06:00 [INF] Application Starting
+2021-01-01 11:07:47.989 -06:00 [INF] Application Starting
+2021-01-01 11:21:18.254 -06:00 [INF] Application Starting
+2021-01-02 10:10:43.642 -06:00 [INF] Application Starting
+2021-01-02 10:53:36.393 -06:00 [INF] Application Starting
+2021-01-02 10:55:23.487 -06:00 [INF] Application Starting
+2021-01-02 10:58:06.254 -06:00 [INF] Application Starting
+2021-01-02 11:07:06.385 -06:00 [INF] Application Starting
+2021-01-02 11:18:41.677 -06:00 [INF] Application Starting
+2021-01-02 12:18:57.265 -06:00 [INF] Application Starting
+2021-01-03 08:32:08.794 -06:00 [INF] Application Starting
+2021-01-03 09:48:18.677 -06:00 [INF] Application Starting
+2021-01-03 09:51:25.794 -06:00 [INF] Application Starting
+2021-01-03 11:22:38.582 -06:00 [INF] Application Starting
+2021-01-03 11:56:17.385 -06:00 [INF] Application Starting
+2021-01-03 11:58:21.852 -06:00 [INF] Application Starting
+2021-01-03 12:02:18.264 -06:00 [INF] Application Starting
+2021-01-03 15:15:32.511 -06:00 [INF] Application Starting
+2021-01-03 15:26:59.434 -06:00 [INF] Application Starting
+2021-01-03 15:27:10.862 -06:00 [INF] ******************************************************************************************
+2021-01-03 15:27:10.867 -06:00 [INF] *** STAT Name                      | STAT Value 
+2021-01-03 15:27:10.868 -06:00 [INF] ******************************************************************************************
+2021-01-03 15:27:10.868 -06:00 [INF] *** Total Tweets Read              | 116
+2021-01-03 15:27:10.868 -06:00 [INF] *** Average Tweets Per Second      | 12
+2021-01-03 15:27:10.868 -06:00 [INF] *** Average Tweets Per Minute      | 0
+2021-01-03 15:27:10.869 -06:00 [INF] *** Average Tweets Per Hour        | 0
+2021-01-03 15:27:10.869 -06:00 [INF] *** Top HashTag                    | 4Horse[# Instances: 1]
+2021-01-03 15:27:10.869 -06:00 [INF] *** Top Domain                     | https://twitch.tv/tododeku6702[# Instances: 1]
+2021-01-03 15:27:10.870 -06:00 [INF] *** Percent of Tweets with URLs    | 17%
+2021-01-03 15:27:10.870 -06:00 [INF] *** Percent of Tweets Pics in URLs | 0%
+2021-01-03 15:27:10.870 -06:00 [INF] ******************************************************************************************
+2021-01-03 15:27:10.870 -06:00 [INF] Application Completed!!!
